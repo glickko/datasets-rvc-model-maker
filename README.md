@@ -20,7 +20,8 @@ Before running the application, make sure you have the following dependencies in
 - numpy
 
 You can install the required packages using the following command:
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
 
 ## Usage
@@ -28,7 +29,9 @@ pip install -r requirements.txt
 1. Clone the repository or download the source code.
 2. Navigate to the project directory.
 3. Run the application with the following command:
-python main.py
+
+`python main.py`
+
 4. The GUI window will open.
 5. Click the "Find File" button to select the audio file you want to process.
 6. Click the "Separate Vocals" button to separate the vocals from the audio file.

@@ -39,7 +39,7 @@ python main.py
 
 Here's an example image of the application's GUI:
 
-![GUI Screenshot](gui_screenshot.png)
+![GUI Screenshot](gui_screenshoot.png)
 
 ## Contributing
 
